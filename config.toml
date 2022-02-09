@@ -1,0 +1,95 @@
+baseURL = 'https://momojuro.me/'
+languageCode = 'en-us'
+title = 'Mohamed L.'
+
+theme = "hello-friend-ng"
+
+paginate = 10
+enableRobotsTXT = true
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  homeSubtitle = "Amateur kernel developer and coding enthusiast"
+  description = "Personal website of momojuro, amateur kernel developer and coding enthusiast."
+  keywords = "momojuro, homepage, blog"
+  images = [""]
+
+  # Enable theme toggle
+  # 
+  # This options enables the theme toggle for the theme. 
+  # Per default, this option is off. 
+  # The theme is respecting the prefers-color-scheme of the operating systeme. 
+  # With this option on, the page user is able to set the scheme he wants. 
+  enableThemeToggle = true
+
+  # Sharing buttons
+  #
+  # There are a lot of buttons preconfigured. If you want to change them,
+  # generate the buttons here: https://sharingbuttons.io
+  # and add them into your own `layouts/partials/sharing-buttons.html`
+  #
+  enableSharingButtons = true
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/momojuro"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:mohamedlemderbel@gmail.com"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/momojurodev"
+
+  [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/momojuro"
+
+[languages]
+  [languages.en]
+    title = "Mohamed L."
+    keywords = ""
+    copyright = 'CC BY-NC 4.0'
+    readOtherPosts = "Read other posts"
+
+  [params.footer]
+    trademark = true
+    copyright = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+      "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    ]
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "momojuro"
+    logoHomeLink = "/"
+    # Disable distracting animation
+    logoCursorDisabled = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
