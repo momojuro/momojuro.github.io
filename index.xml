@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamed L.</title>
+    <link>https://momojuro.me/</link>
+    <description>Recent content on Mohamed L.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC BY-NC 4.0</copyright><atom:link href="https://momojuro.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notable projects</title>
+      <link>https://momojuro.me/projects/</link>
+      <pubDate>Wed, 16 Feb 2022 02:11:00 +0148</pubDate>
+      
+      <guid>https://momojuro.me/projects/</guid>
+      <description>fsociety tribute: Custom kernel for the Google Pixel 4a 4G, the Google Pixel 4a 5G, the Google Pixel 5a 5G and the Google Pixel 5  Named after a subplot from a TV show called Mr. Robot, fsociety tribute is an open-source project with the ambition to give the device a set of useful features while ensuring its stability for a daily life usage.
+Those features and changes are pulled after thorough check up from different renowned custom kernel projects in the Android development scene.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://momojuro.me/about/</link>
+      <pubDate>Thu, 10 Feb 2022 01:53:00 +0100</pubDate>
+      
+      <guid>https://momojuro.me/about/</guid>
+      <description>Previously majoring in English at the Sorbonne university in Paris, I am now learning how to code while contributing to open source projects on Github during my free time.
+Most of those said contributions are related to Android, but I am eager to expand my knowledge into other subfields.
+Feel free to contact me via the platforms available on the home page!</description>
+    </item>
+    
+  </channel>
+</rss>
