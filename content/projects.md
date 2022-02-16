@@ -1,10 +1,10 @@
 ---
 title: "Notable projects"
-date: 2022-02-10T02:11:00+01:00
+date: 2022-02-16T02:11:00+01:48
 draft: false
 ---
 
-- **fsociety tribute:** Custom kernel for the Google Pixel 4a 4G/5G and the Pixel 5
+- **fsociety tribute:** Custom kernel for the Google Pixel 4a 4G, the Google Pixel 4a 5G, the Google Pixel 5a 5G and the Google Pixel 5
 
 Named after a subplot from a TV show called Mr. Robot, fsociety tribute is an open-source project with the ambition to give the device a set of useful features while ensuring its stability for a daily life usage.
 
