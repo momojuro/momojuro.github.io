@@ -22,8 +22,8 @@ enableRobotsTXT = true
   dateformNumTime = "2006-01-02 15:04"
 
   # Metadata mostly used in document's head
-  homeSubtitle = "Amateur kernel developer and coding enthusiast"
-  description = "Personal website of momojuro, amateur kernel developer and coding enthusiast."
+  homeSubtitle = "Kernel developer and coding enthusiast"
+  description = "Personal website of momojuro, kernel developer and coding enthusiast."
   keywords = "momojuro, homepage, blog"
   images = [""]
 
