@@ -1,4 +1,4 @@
-baseURL = 'https://momojuro.me/'
+baseURL = 'https://momojuro.dev/'
 languageCode = 'en-us'
 title = 'Mohamed L.'
 
@@ -49,7 +49,7 @@ enableRobotsTXT = true
 
   [[params.social]]
     name = "email"
-    url  = "mailto:mohamedlemderbel@gmail.com"
+    url  = "mailto:contact@momojuro.dev"
 
   [[params.social]]
     name = "twitter"
